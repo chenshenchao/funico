@@ -1,0 +1,26 @@
+@font-face {
+	font-family: "funico";
+	src: url('../fonts/funico.eot');
+	src: url('../fonts/funico.eot?#iefix') format('eot'),
+		url('../fonts/funico.woff2') format('woff2'),
+		url('../fonts/funico.woff') format('woff'),
+		url('../fonts/funico.ttf') format('truetype'),
+		url('../fonts/funico.svg#funico') format('svg');
+}
+
+.fi:before {
+	font-family: "funico";
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	/* speak: none; only necessary if not using the private unicode range (firstGlyph option) */
+	text-decoration: none;
+	text-transform: none;
+}
+
+
+.fi-funico:before {
+	content: "\E001";
+}

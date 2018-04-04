@@ -1,0 +1,27 @@
+{
+  "name": "funico",
+  "version": "0.0.1",
+  "description": "Yet a iconfont.",
+  "author": "chenshenchao <chenshenchao@outlook.com>",
+  "license": "MIT",
+  "main": "dist/css/funico.css",
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenshenchao/funico.git"
+  },
+  "keywords": [
+    "icon",
+    "font",
+    "iconfont",
+    "fun",
+    "funico"
+  ],
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-iconfont": "^9.1.0",
+    "gulp-iconfont-css": "^2.1.0"
+  }
+}
