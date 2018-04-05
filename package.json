@@ -2,7 +2,10 @@
   "name": "funico",
   "version": "0.0.1",
   "description": "Yet a iconfont.",
-  "author": "chenshenchao <chenshenchao@outlook.com>",
+  "author": {
+    "name": "chenshenchao",
+    "email": "chenshenchao@outlook.com"
+  },
   "license": "MIT",
   "main": "dist/css/funico.css",
   "scripts": {
