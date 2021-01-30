@@ -1,13 +1,13 @@
 {
   "name": "funico",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Yet a iconfont.",
   "author": {
     "name": "chenshenchao",
     "email": "chenshenchao@outlook.com"
   },
   "license": "MIT",
-  "main": "dist/css/funico.css",
+  "main": "dist/styles/funico.css",
   "scripts": {
     "build": "gulp"
   },
