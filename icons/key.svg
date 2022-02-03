@@ -5,13 +5,36 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="200mm"
    height="200mm"
    viewBox="0 0 200 200"
    version="1.1"
-   id="svg8">
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="key.svg">
   <defs
      id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="384.4094"
+     inkscape:cy="379.89126"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -25,14 +48,16 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:label="layer"
      id="layer1"
-     transform="translate(-10.96131,21.544643)">
+     transform="translate(-12.473215,27.970238)">
     <circle
        style="fill:#000000;stroke-width:0.363308"
        id="path833"
        cx="132.29166"
        cy="58.586308"
-       r="52.160713" />
+       r="52.160713"
+       inkscape:label="key3" />
     <rect
        style="fill:#000000;stroke-width:0.264583"
        id="rect835"
@@ -40,7 +65,8 @@
        height="80.886909"
        x="125.28612"
        y="-6.3573327"
-       transform="rotate(46.780577)" />
+       transform="rotate(46.780577)"
+       inkscape:label="key2" />
     <rect
        style="fill:#000000;stroke-width:0.264583"
        id="rect837"
@@ -48,6 +74,7 @@
        height="10.583333"
        x="140.2379"
        y="41.44125"
-       transform="rotate(47.402608)" />
+       transform="rotate(47.402608)"
+       inkscape:label="key1" />
   </g>
 </svg>
