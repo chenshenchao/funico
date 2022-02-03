@@ -4,12 +4,12 @@ const iconfontCss = require('gulp-iconfont-css');
 
 const name = 'funico';
 
-gulp.task('default', function() {
-    gulp.src(['icons/*svg'])
+gulp.task('default', async () => {
+    gulp.src(['icons/*.svg'])
         .pipe(iconfontCss({
             fontName: name,
-            fontPath: '../fonts/',
             cssClass: 'fi',
+            fontPath: '../fonts/',
             targetPath: '../styles/funico.css'
         }))
         .pipe(iconfont({

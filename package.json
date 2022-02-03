@@ -8,6 +8,9 @@
   },
   "license": "MIT",
   "main": "dist/styles/funico.css",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "gulp"
   },
@@ -23,8 +26,8 @@
     "funico"
   ],
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-iconfont": "^9.1.0",
-    "gulp-iconfont-css": "^2.1.0"
+    "gulp": "^4.0.2",
+    "gulp-iconfont": "^11.0.1",
+    "gulp-iconfont-css": "^3.0.0"
   }
 }
