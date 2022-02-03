@@ -1,3 +1,3 @@
 # [Funico](https://github.com/chenshenchao/funico)
 
-Yet a iconfont.
+一个字体图标库。
