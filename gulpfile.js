@@ -10,7 +10,7 @@ gulp.task('default', async () => {
             fontName: name,
             cssClass: 'fi',
             fontPath: '../fonts/',
-            targetPath: '../styles/funico.css'
+            targetPath: '../all.css',
         }))
         .pipe(iconfont({
             fontName: name,
