@@ -12,6 +12,7 @@
     "dist"
   ],
   "scripts": {
+    "demo": "node demo.js",
     "build": "gulp"
   },
   "repository": {
@@ -28,6 +29,8 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-iconfont": "^11.0.1",
-    "gulp-iconfont-css": "^3.0.0"
+    "gulp-iconfont-css": "^3.0.0",
+    "koa": "^3.0.1",
+    "koa-static": "^5.0.0"
   }
 }
